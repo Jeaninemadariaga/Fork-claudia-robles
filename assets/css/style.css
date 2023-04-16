@@ -1,0 +1,88 @@
+.navbara {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+
+    background-color: rgb(122, 200, 236);
+    
+}
+
+.nombre  {
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 3em;
+    padding-left: 1em;
+}
+
+
+
+.fondo {
+    background-image: url(../img/fondo\ lluvia.jpg);
+    background-size: cover;
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 1em;
+
+}
+
+.articulo {
+    padding-right: 3em;
+    padding-left: 20em;
+    padding-top: 15em;
+    padding-bottom: 7em;
+    text-align: center;  
+    color: aliceblue;
+    
+}
+
+
+article h2 {
+    font-family: 'Grenze Gotisch', cursive;
+    text-size-adjust: 5em;
+    font-size: 3em;
+}
+
+.seccion2  {
+    text-align: center;
+    background-color: rgb(122, 200, 236);
+    padding-top: 2em;
+    padding-bottom: 2em;
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+.seccion2 div {
+    min-width: 6em;
+    display: inline-block;
+    margin-right: 1em;
+    margin-left: 1em;
+    font-size: 3em;
+    
+}
+
+
+.proyectos {
+    background-image: url(../img/fondo\ lluvia.jpg);
+    font-family: 'Grenze Gotisch', cursive;
+    padding-bottom: 1em;
+}
+.proyectos h3 {
+    font-family: 'Grenze Gotisch', cursive;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    font-size: 4em;
+    color: aliceblue;
+}
+
+.card-img-top {
+    height: 250px;
+    width: 100%;
+    object-fit: fill;
+}
+
+.contacto {
+    background-color: rgb(122, 200, 236);
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+.footer {
+    font-family: 'Grenze Gotisch', cursive;
+}
